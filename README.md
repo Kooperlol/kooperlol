@@ -18,5 +18,5 @@
 <h3 align="left">Current Projects:</h3>
 
 <p align="left">
-  <a href="">Looking for something to work on!<br>
+  <a href="https://github.com/Kooperlol/mhslaude">Working on a laude point calculator for my school!</a>
 </p>
