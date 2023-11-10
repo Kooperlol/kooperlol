@@ -21,8 +21,7 @@
       <a href="https://nodejs.org/en/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nodejs/nodejs-original.svg" alt="node.js" width="40" height="40"/> </a> 
         <a href="https://tailwindcss.com/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/tailwindcss/tailwindcss-plain.svg" alt="tailwind" width="40" height="40"/> </a> 
           <a href="https://www.python.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" alt="python" width="40" height="40"/> </a> 
-</p>
-          <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/> </a> 
+          <a href="https://flask.palletsprojects.com/en/3.0.x/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg" alt="flask" width="40" height="40"/></a> 
 </p>
 
 <h3 align="left">Current Projects:</h3>
