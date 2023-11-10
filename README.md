@@ -13,6 +13,9 @@
   <a href="https://www.mongodb.com/" target="_blank"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/> </a>
   <a href="https://firebase.google.com/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/firebase/firebase-plain.svg" alt="firebase" width="40" height="40"/> </a> 
   <a href="https://flutter.dev/" target="_blank"> <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flutter/flutter-original.svg" alt="flutter" width="40" height="40"/> </a> 
+    <a href="https://nextjs.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/nextjs/nextjs-original.svg" alt="next.js" width="40" height="40"/> </a> 
+    <a href="https://www.typescriptlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/> </a> 
+    <a href="https://kotlinlang.org/" target="_blank"> <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/> </a> 
 </p>
 
 <h3 align="left">Current Projects:</h3>
