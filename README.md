@@ -28,6 +28,6 @@
 <h3 align="left">Current Projects:</h3>
 
 <p align="left">
-  <a href="https://github.com/Kooperlol/mhslaude">Working on a laude point calculator for my school!</a>
+  <a href="https://github.com/Kooperlol/mhslaude">Working on a laude point calculator for my school!</a><br>
   <a href="https://github.com/Kooperlol/ghostcore">Creating a client-side block API for Paper Minecraft!</a>
 </p>
