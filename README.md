@@ -29,4 +29,5 @@
 <p align="left">
   <a href="https://github.com/Kooperlol/mhslaude">Working on a laude point calculator for my school</a><br>
   <a href="https://github.com/Kooperlol/ghostcore">Creating a client-side block API for Paper Minecraft</a>
+  <a href="https://github.com/Kooperlol/nexadb">Competing in FBLA Website Coding & Development</a>
 </p>
