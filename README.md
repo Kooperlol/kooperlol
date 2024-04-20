@@ -4,8 +4,6 @@
 
 <p align="right"> <img src="https://komarev.com/ghpvc/?username=kooperlol&label=Profile%20views&color=0e75b6&style=flat-square" alt="kooperlol" /> </p>
 
-<h3 align="left">My Website: http://kooper.codes/</h3>
-
 <h3 align="left">Current Projects:</h3>
 
 <p align="left">
