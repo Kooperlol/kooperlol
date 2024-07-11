@@ -8,5 +8,4 @@
 
 <p align="left">
   <a href="https://github.com/Kooperlol/blockify">Creating a Paper library for client-sided blocks</a><br>
-  <a href="https://github.com/Kooperlol/nexadb">Competing in FBLA Website Coding & Development</a>
 </p>
