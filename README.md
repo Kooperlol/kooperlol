@@ -16,7 +16,7 @@
 
 ### 👋 Welcome!
 
-I’m a curious builder who loves solving problems, learning new technologies, and creating projects that make a real impact in my community. Whether it’s building full-stack apps, experimenting with new frameworks, or exploring how tech can improve everyday life, I’m driven by a passion for innovation.
+I'm Kooper Propp, a Computer Science student at the University of Wisconsin - La Crosse. I’m a curious builder who loves solving problems, learning new technologies, and creating projects that make a real impact in my community. Whether it’s building full-stack apps, experimenting with new frameworks, or exploring how tech can improve everyday life, I’m driven by a passion for innovation.
 
 ---
 
@@ -50,7 +50,7 @@ I’m a curious builder who loves solving problems, learning new technologies, a
 
 ### 🎯 About Me
 
-- 🎵 **Tiktok Creator:** I make TikToks that have reached 845,000+ likes and built a community of over 5,600 followers.
+- 🎵 **Tiktok Creator:** I make [TikToks](https://www.tiktok.com/@kooperlol) that have reached 845,000+ likes and built a community of over 5,600 followers.
 - 💻 **Building:** Laude.app — a SaaS platform that automates transcript parsing, GPA calculation, and honors recognition for schools.
 - 📚 **Learning:** Angular Web Framework
 - 📫 **Contact:** koopercodes@gmail.com
