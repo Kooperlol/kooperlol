@@ -14,13 +14,13 @@
 
 ---
 
-### 👋 Welcome!
+### Welcome!
 
 I'm Kooper Propp, a Computer Science student at the University of Wisconsin - La Crosse. I’m a curious builder who loves solving problems, learning new technologies, and creating projects that make a real impact in my community. Whether it’s building full-stack apps, experimenting with new frameworks, or exploring how tech can improve everyday life, I’m driven by a passion for innovation.
 
 ---
 
-### 🚀 Tech Stack
+### Tech Stack
 
 <p>
   <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54"/>
@@ -48,7 +48,7 @@ I'm Kooper Propp, a Computer Science student at the University of Wisconsin - La
 
 ---
 
-### 🎯 About Me
+### About Me
 
 - 🎵 **Tiktok Creator:** I make [TikToks](https://www.tiktok.com/@kooperlol) that have reached 845,000+ likes and built a community of over 5,600 followers.
 - 💻 **Building:** Laude.app — a SaaS platform that automates transcript parsing, GPA calculation, and honors recognition for schools.
