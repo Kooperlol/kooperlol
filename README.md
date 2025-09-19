@@ -54,7 +54,7 @@ I'm Kooper Propp, a Computer Science student at the University of Wisconsin - La
 - 💻 **Building:** Laude.app — a SaaS platform that automates transcript parsing, GPA calculation, and honors recognition for schools.
 - 📚 **Learning:** Angular Web Framework
 - 📫 **Contact:** koopercodes@gmail.com
-- 📄 **[Resume](WIP)**
+- 📄 **[Resume](https://www.linkedin.com/in/kooperpropp/overlay/1758312761671/single-media-viewer/?profileId=ACoAAEUZCCgBhrHsFBkox_5GAfDSveox06LGlL0)**
 
 ---
 
