@@ -61,8 +61,6 @@ I'm Kooper Propp, a Computer Science student at the University of Wisconsin - La
 ### 📈 My GitHub Stats
 
 <p>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=Kooperlol&show_icons=true&hide_border=true&count_private=true&include_all_commits=true" />
-  <br />
   <img src="https://komarev.com/ghpvc/?username=Kooperlol&label=Profile%20views&color=0e75b6&style=flat" alt="KooperCodes" />
 </p>
 
