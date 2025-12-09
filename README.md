@@ -51,8 +51,8 @@ I'm Kooper Propp, a Computer Science student at the University of Wisconsin - La
 ### About Me
 
 - 🎵 **Tiktok Creator:** I make [TikToks](https://www.tiktok.com/@kooperlol) that have reached 845,000+ likes and built a community of over 5,600 followers.
-- 💻 **Building:** Laude.app — a SaaS platform that automates transcript parsing, GPA calculation, and honors recognition for schools.
-- 📚 **Learning:** Angular Web Framework
+- 💻 **Building:** [Kosh Rocks](https://koshrocks.com/)
+- 📚 **Learning:** Lua and Roblox Studio
 - 📫 **Contact:** koopercodes@gmail.com
 - 📄 **[Resume](https://www.linkedin.com/in/kooperpropp/overlay/1758312761671/single-media-viewer/?profileId=ACoAAEUZCCgBhrHsFBkox_5GAfDSveox06LGlL0)**
 
