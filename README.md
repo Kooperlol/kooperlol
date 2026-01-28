@@ -49,7 +49,7 @@ I'm Kooper Propp, a Computer Science student at the University of Wisconsin - La
 
 ### About Me
 
-- 🎵 **Tiktok Creator:** I make [TikToks](https://www.tiktok.com/@kooperlol) that have reached 845,000+ likes and built a community of over 5,600 followers.
+- 🎵 **Tiktok Creator:** I make [TikToks](https://www.tiktok.com/@kooperlol) that have reached 845,000+ likes and built a community of over 6,000 followers.
 - 💻 **Building:** [Kosh Rocks](https://koshrocks.com/)
 - 📚 **Learning:** Lua and Roblox Studio
 - 📫 **Contact:** koopercodes@gmail.com
