@@ -16,7 +16,7 @@
 
 ### Welcome!
 
-I'm Kooper Propp, a Computer Science student at the University of Wisconsin - La Crosse. I’m a curious builder who loves solving problems, learning new technologies, and creating projects that make a real impact in my community. Whether it’s building full-stack apps, experimenting with new frameworks, or exploring how tech can improve everyday life, I’m driven by a passion for innovation.
+I'm Kooper Propp, a Computer Science student at the University of Wisconsin - La Crosse. I’m a curious builder who loves solving problems, learning new technologies, and creating projects that make a real impact in my community. Whether it’s building full-stack web apps, experimenting with new frameworks, or exploring how tech can improve everyday life, I’m driven by a passion for innovation.
 
 ---
 
@@ -49,9 +49,9 @@ I'm Kooper Propp, a Computer Science student at the University of Wisconsin - La
 
 ### About Me
 
-- 🎵 **Tiktok Creator:** I make [TikToks](https://www.tiktok.com/@kooperlol) that have reached 845,000+ likes and built a community of over 6,000 followers.
-- 💻 **Building:** [Kosh Rocks](https://koshrocks.com/)
-- 📚 **Learning:** Lua and Roblox Studio
+- 🎵 **Tiktok Creator:** I make [TikToks](https://www.tiktok.com/@kooperlol) that have been viewed by over ten milion people.
+- 💻 **Building:** [Kosh Rocks](https://koshrocks.com/) - A local business directory PWA.
+- 📚 **Learning:** Assembly
 - 📫 **Contact:** koopercodes@gmail.com
 - 📄 **[Resume](https://www.linkedin.com/in/kooperpropp/overlay/1765226637795/single-media-viewer/?profileId=ACoAAEUZCCgBhrHsFBkox_5GAfDSveox06LGlL0)**
 
