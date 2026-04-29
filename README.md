@@ -51,7 +51,7 @@ I'm Kooper Propp, a Computer Science student at the University of Wisconsin - La
 
 - 🎵 **Tiktok Creator:** I make [TikToks](https://www.tiktok.com/@kooperlol) that have been viewed by over ten milion people.
 - 💻 **Building:** [Kosh Rocks](https://koshrocks.com/) - A local business directory PWA.
-- 📚 **Learning:** Assembly
+- 📚 **Learning:** C
 - 📫 **Contact:** koopercodes@gmail.com
 - 📄 **[Resume](https://www.linkedin.com/in/kooperpropp/overlay/1765226637795/single-media-viewer/?profileId=ACoAAEUZCCgBhrHsFBkox_5GAfDSveox06LGlL0)**
 
